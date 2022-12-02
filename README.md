@@ -1,5 +1,7 @@
 PORTFOLIO
+
 About me
+
 I am an energetic, ambitious person who is willing to take on new things
 challenges. I approach the duties entrusted to me very meticulously and responsibly. I care about development, gaining new experience and expanding knowledge.
 I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
@@ -75,5 +77,6 @@ IT groups on Facebook I follow
 
 My projects
 
+[Portfolio-dareit](https://github.com/IlonaER/challenge_portfolio_ilona)
 
 
