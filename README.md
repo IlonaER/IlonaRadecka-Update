@@ -6,15 +6,26 @@ I have already acquired and keep developing in this field. This is why I am now 
 
 My experience
 
-My previous experience varies from office assistance through customer service support to label coordinator at a medical company.
-I my career I have participated in two projects where I was able to test software as a user. One of them was testing web-based ticketing system Rave 2.0 and the other concerned web-based application for label creation and maintenance Kallik. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to supervisor using Excel file. Right now I am also active as a tester at Testbirds.
+My experience so far covers various areas, from office assistance, through customer service support, to marketing management in a medical company.
+In my career, I took part in the DARE IT project, in which I had the opportunity to test software as a user.
+I prepared test cases and scenarios, followed processes.
+I tested Focusly and SwepTo. The errors I found in the Focusly mobile application were reported to the creator.
+
+
 Courses
 
-    Software tester course in Software Development Academy
-    Konsola Deweloperska on szkoleniedlaqa.pl
-    Jira od podstaw - zarządzanie projektami (Udemy)
-    MySQL tworzenie i zarządzanie bazami danych (Udemy)
-    6-day HTML/CSS Marathon from GoIT
+Praktyczny kurs testowania programowania
+
+Kurs pętli podstawy: Pętla For, Do-While, While. Loops
+
+Python dla początkujących
+
+Menager reklamy i marketingu
+
+Instruktor biegania i dietetyki
+
+
+    
 
 Certificates
 
@@ -35,6 +46,7 @@ Tools
     Jira - bug tracker
   
     GitHub
+    
     MySQL - relational database management system
     
     
@@ -45,6 +57,7 @@ Books
     Zawód Tester - Radosław Smilgin
     e-book "ABC Testowania oprogramowania" Waldemar Szafraniec, Dorota Gabor
     e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola
+    
 
 Blogs I read
 
