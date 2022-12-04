@@ -38,18 +38,18 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 
 ## Certificates 🥇
 
-##_Certificate of Achievement - Preply - j.angielski B1._
+:fountain_pen:_Certificate of Achievement - Preply - j.angielski B1._
 
 ![Certyfikat Angielski.B1](https://user-images.githubusercontent.com/116502803/205497909-8727f9ce-8c51-4ef7-a19e-9c65423713a5.png)
 
    
-##_Praktyczny kurs testowania programowania_
+:fountain_pen:_Praktyczny kurs testowania programowania_
 ![UDEMY CERTYFIKAT](https://user-images.githubusercontent.com/116502803/205497855-d0a71280-79f2-489c-81ac-3442f43484e1.png)
 
 
-Menager reklamy i marketingu
+:fountain_pen:Menager reklamy i marketingu
 
-Instruktor biegania i dietetyki
+:fountain_pen:Instruktor biegania i dietetyki
 
 
 
