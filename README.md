@@ -44,8 +44,6 @@ Menager reklamy i marketingu
 
 Instruktor biegania i dietetyki
 
-Praktyczny kurs testowania programowania
-
 
 
 # Tools
@@ -87,8 +85,11 @@ Strefa Technologii Uniwesytetu SWPS
 # My projects
 
 [Portfolio-dareit](https://github.com/IlonaER/challenge_portfolio_ilona)
+
 [Test cases](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
-[Jira=wspólny test aplikacji SwepTo] (https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
+
+[Jira-wspólny test aplikacji SwepTo](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
+
 [Raport z testów](https://docs.google.com/document/d/1YbnCNxyN1HSR4tjZBn0cb0Dio-D4n25yaQ_PC2VSXjU/edit)
 
 
