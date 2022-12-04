@@ -18,17 +18,17 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 
 ## Courses 📰
 
-    Praktyczny kurs testowania programowania
+    1. Praktyczny kurs testowania programowania
     
-    Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS
+    2. Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS
     
-    Introduction to POSTMAN - A Beginners guide
+    3. Introduction to POSTMAN - A Beginners guide
 
-    Python dla początkujących
+    4. Python dla początkujących
 
-    Menager reklamy i marketingu
+    5. Menager reklamy i marketingu
 
-    Instruktor biegania i dietetyki
+    6. Instruktor biegania i dietetyki
  
 
 
@@ -71,19 +71,23 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 ## Books I read :books:
 
     1. Testowanie oprogramowania. Podręcznik dla początkujących- Rafał Pawlak 
+    
     2. Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław  Smilgin 
  
     
 
 ## Blogs I read :page_with_curl:
 
-    testerzy.pl
-    testerka.pl
+   1. testerzy.pl
+   2. testerka.pl
+   3. jakzostactesterem.pl
     
 ## Vlogs I watch 📹
 
- 1. Quality Time-@Testspring
- 2. Technika Programowania-@TechnikaProgramowania
+   1.  Quality Time-@Testspring
+   
+   
+   3. Technika Programowania-@TechnikaProgramowania
    
 
 ## IT groups on Facebook I follow  	:computer:
