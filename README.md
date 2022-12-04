@@ -19,6 +19,10 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 ## Courses 📰
 
     Praktyczny kurs testowania programowania
+    
+    Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS
+    
+    Introduction to POSTMAN - A Beginners guide
 
     Python dla początkujących
 
@@ -73,6 +77,11 @@ Instruktor biegania i dietetyki
 
     testerzy.pl
     testerka.pl
+    
+## Vlogs 📹
+
+ Quality Time-@Testspring
+ Technika Programowania-@TechnikaProgramowania
    
 
 ## IT groups on Facebook I follow  	:computer:
@@ -86,7 +95,7 @@ Instruktor biegania i dietetyki
 ## Podcasts :cd:
 
     Strefa Technologii Uniwesytetu SWPS
-
+    
 
 
 ## My projects :electric_plug:
