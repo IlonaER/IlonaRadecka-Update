@@ -25,10 +25,12 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
     3. Introduction to POSTMAN - A Beginners guide
 
     4. Python dla początkujących
+    
+    5. Kurs pętli podstawy: Pętla For, Do-While, While. Loops
 
-    5. Menager reklamy i marketingu
-
-    6. Instruktor biegania i dietetyki
+    6. Menager reklamy i marketingu
+    
+    7. Instruktor biegania i dietetyki
  
 
 
