@@ -1,6 +1,6 @@
-## PORTFOLIO
+# PORTFOLIO Ilona Radecka
 
-# About me
+## About me 🧍‍♀️
 
 I am an energetic, ambitious person who is willing to take on new things
 challenges. I approach the duties entrusted to me very meticulously and responsibly. I care about development, gaining new experience and expanding knowledge.
@@ -8,7 +8,7 @@ I have already acquired and keep developing in this field. This is why I am now 
 
 VIDEO! 
 
-# My experience
+## My experience 👩 
 
 My experience so far covers various areas, from office assistance, through customer service support, to marketing management in a medical company.
 In my career, I took part in the DARE IT project, in which I had the opportunity to test software as a user.
@@ -16,20 +16,23 @@ I prepared test cases and scenarios, followed processes.
 I tested Focusly and SwepTo. The errors I found in the Focusly mobile application were reported to the creator.
 
 
-# Courses
+## Courses 📰
 
-Praktyczny kurs testowania programowania
+    Praktyczny kurs testowania programowania
 
-Python dla początkujących
+    Python dla początkujących
 
-Menager reklamy i marketingu
+    Menager reklamy i marketingu
 
-Instruktor biegania i dietetyki
+    Instruktor biegania i dietetyki
+ 
+
+
 
 
     
 
-# Certificates
+## Certificates 🥇
 
 Certificate of Achievement - Preply - j.angielski B1.
 
@@ -46,30 +49,33 @@ Instruktor biegania i dietetyki
 
 
 
-# Tools
+## Tools 🔨
 
-Jira - bug tracker
+
+     Jira - bug tracker
   
-GitHub
+     GitHub
     
-MySQL - relational database management system
+     MySQL - relational database management system
+ 
+ 
     
     
 
-# Books
+## Books :books:
 
     Testowanie oprogramowania. Podręcznik dla początkujących- Rafał Pawlak 
     Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław  Smilgin 
  
     
 
-# Blogs I read
+## Blogs I read :page_with_curl:
 
     testerzy.pl
     testerka.pl
    
 
-# IT groups on Facebook I follow
+## IT groups on Facebook I follow  	:computer:
 
     Testowanie oprogramowania
     Tester oprogramowania - wsparcie na starcie
@@ -77,19 +83,23 @@ MySQL - relational database management system
   
   
     
-# Podcasts
+## Podcasts :cd:
 
-Strefa Technologii Uniwesytetu SWPS
+    Strefa Technologii Uniwesytetu SWPS
 
 
-# My projects
 
-[Portfolio-dareit](https://github.com/IlonaER/challenge_portfolio_ilona)
+## My projects :electric_plug:
 
-[Test cases](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
+ 
+  [Portfolio-dareit](https://github.com/IlonaER/challenge_portfolio_ilona)
 
-[Jira-wspólny test aplikacji SwepTo](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
+  [Test cases](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
 
-[Raport z testów](https://docs.google.com/document/d/1YbnCNxyN1HSR4tjZBn0cb0Dio-D4n25yaQ_PC2VSXjU/edit)
+  [Jira-wspólny test aplikacji SwepTo](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
+
+  [Raport z testów](https://docs.google.com/document/d/1YbnCNxyN1HSR4tjZBn0cb0Dio-D4n25yaQ_PC2VSXjU/edit)
+
+
 
 
