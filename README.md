@@ -17,11 +17,9 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 
 ## My profile Linkedin
 
-:open_file_folder:[LINKEDI IN ILONA RADECKA](https://www.linkedin.com/in/ilona-radecka-3bb784251/)
+:open_file_folder:[LINKED IN ILONA RADECKA](https://www.linkedin.com/in/ilona-radecka-3bb784251/)
 
-![[obraz](https://user-images.githubusercontent.com/116502803/205628447-c3b96de6-ccc3-45c7-9c28-e18bb5794e20.png)
-
-
+![obraz](https://user-images.githubusercontent.com/116502803/205629092-e226e3ec-73f2-4d3e-904c-4372532fdff8.png)
 
 ## Courses 📰
 
