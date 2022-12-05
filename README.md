@@ -18,19 +18,23 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 
 ## Courses 📰
 
-    1. Praktyczny kurs testowania programowania
+    1. Praktyczny kurs testowania programowania -Udemy
     
-    2. Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS
+    2. Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS -Udemy
     
-    3. Introduction to POSTMAN - A Beginners guide
+    3. Introduction to POSTMAN - A Beginners guide -Udemy
 
-    4. Python dla początkujących
+    4. Python dla początkujących -Udemy
     
-    5. Kurs pętli podstawy: Pętla For, Do-While, While. Loops
+    5. Kurs pętli podstawy: Pętla For, Do-While, While. Loops -Udemy
+    
+    6. Become Software Tester - A Complete Learning path to be a QA -Udemy
+    
+    7.Selenium with Headless Chrome Browser, HTMLUnit & PhantomJs  -Udemy
 
-    6. Menager reklamy i marketingu
+    8. Menager reklamy i marketingu
     
-    7. Instruktor biegania i dietetyki
+    9. Instruktor biegania i dietetyki
  
 
 
