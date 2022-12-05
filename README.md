@@ -6,7 +6,9 @@ I am an energetic, ambitious person who is willing to take on new things
 challenges. I approach the duties entrusted to me very meticulously and responsibly. I care about development, gaining new experience and expanding knowledge.
 I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 
-VIDEO! 
+:point_down: watch the movie :movie_camera:
+ 
+ [![Watch the video]![obraz](https://user-images.githubusercontent.com/116502803/205754988-3852e66a-cac1-40cf-b619-0d2bf4bc8ba2.png)(https://youtube.com/shorts/fjHfXg6OW4I?feature=share)
 
 ## My experience 👩
 
