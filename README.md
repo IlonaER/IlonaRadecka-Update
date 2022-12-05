@@ -8,7 +8,10 @@ I have already acquired and keep developing in this field. This is why I am now 
 
 :point_down: watch the movie :movie_camera:
  
- [![Watch the video](https://user-images.githubusercontent.com/116502803/205754988-3852e66a-cac1-40cf-b619-0d2bf4bc8ba2.png0)](https://youtube.com/shorts/fjHfXg6OW4I?feature=share)
+ [![Watch the video](https://user-images.githubusercontent.com/116502803/205754988-3852e66a-cac1-40cf-b619-0d2bf4bc8ba2.png0)]([https://youtube.com/shorts/fjHfXg6OW4I?feature=share)](https://www.youtube.com/shorts/R663hRPp2ok)
+ 
+ [![Watch the video](https://user-images.githubusercontent.com/116502803/200179639-1fc0c994-0d5f-4642-bd9b-957e68567906.png)](https://www.youtube.com/watch?v=bnXuZiqDCn4)
+ https://youtube.com/shorts/R663hRPp2ok
 
 ## My experience 👩
 
