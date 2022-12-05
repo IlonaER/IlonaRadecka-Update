@@ -9,7 +9,7 @@ I have already acquired and keep developing in this field. This is why I am now 
 :point_down: watch the movie :movie_camera:
  
  
- ![[obraz](https://user-images.githubusercontent.com/116502803/205761733-d18eba61-806b-4f5a-9518-0329cda97363.png)]https://www.youtube.com/shorts/R663hRPp2ok
+ ! [![Watch the video](https://user-images.githubusercontent.com/116502803/205761733-d18eba61-806b-4f5a-9518-0329cda97363.png)](https://www.youtube.com/shorts/R663hRPp2ok)
 
 
 ## My experience 👩
