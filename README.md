@@ -8,7 +8,7 @@ I have already acquired and keep developing in this field. This is why I am now 
 
 :point_down: watch the movie :movie_camera:
  
- [![Watch the video]![obraz](https://user-images.githubusercontent.com/116502803/205754988-3852e66a-cac1-40cf-b619-0d2bf4bc8ba2.png0](https://youtube.com/shorts/fjHfXg6OW4I?feature=share)
+ [![Watch the video]![(https://user-images.githubusercontent.com/116502803/205754988-3852e66a-cac1-40cf-b619-0d2bf4bc8ba2.png0](https://youtube.com/shorts/fjHfXg6OW4I?feature=share)
 
 ## My experience 👩
 
