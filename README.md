@@ -16,8 +16,10 @@ I prepared test cases and scenarios, followed processes.
 I tested Focusly and SwepTo. The errors I found in the Focusly mobile application were reported to the creator.
 
 ## My profile Linkedin
-:open_file_folder: 
-![[obraz](https://www.linkedin.com/in/ilona-radecka-3bb784251/)](https://user-images.githubusercontent.com/116502803/205628447-c3b96de6-ccc3-45c7-9c28-e18bb5794e20.png)
+
+:open_file_folder:[LINKEDI IN ILONA RADECKA] (https://www.linkedin.com/in/ilona-radecka-3bb784251/)
+
+![[obraz](https://user-images.githubusercontent.com/116502803/205628447-c3b96de6-ccc3-45c7-9c28-e18bb5794e20.png)
 
 
 
