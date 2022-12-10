@@ -27,23 +27,27 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
 
 ## Courses 📰
 
-    1. Praktyczny kurs testowania programowania -Udemy
     
-    2. Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS -Udemy
+   
+    1. Dare IT Challenge: QA Manual Testing
     
-    3. Introduction to POSTMAN - A Beginners guide -Udemy
+    2. Praktyczny kurs testowania programowania -Udemy
+    
+    3. Emmet: Pisz Szybciej oraz Wydajniej kod HTML i CSS -Udemy
+    
+    4. Introduction to POSTMAN - A Beginners guide -Udemy
 
-    4. Python dla początkujących -Udemy
+    5. Python dla początkujących -Udemy
     
-    5. Kurs pętli podstawy: Pętla For, Do-While, While. Loops -Udemy
+    6. Kurs pętli podstawy: Pętla For, Do-While, While. Loops -Udemy
     
-    6. Become Software Tester - A Complete Learning path to be a QA -Udemy
+    7. Become Software Tester - A Complete Learning path to be a QA -Udemy
     
-    7.Selenium with Headless Chrome Browser, HTMLUnit & PhantomJs  -Udemy
+    8.Selenium with Headless Chrome Browser, HTMLUnit & PhantomJs  -Udemy
 
-    8. Menager reklamy i marketingu
+    9. Menager reklamy i marketingu
     
-    9. Instruktor biegania i dietetyki
+   10. Instruktor biegania i dietetyki
  
 
 
@@ -52,6 +56,9 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
     
 
 ## Certificates 🥇
+
+
+:fountain_pen:1._Dare IT Challenge: QA Manual Testing
 
 :fountain_pen:1._Certificate of Achievement - Preply - j.angielski B1._
 
