@@ -81,6 +81,10 @@ I tested Focusly and SwepTo. The errors I found in the Focusly mobile applicatio
      
      5. Sharex
      
+     6. Slack
+     
+     7. Xampp
+     
       
 
 ## Books I read :books:
